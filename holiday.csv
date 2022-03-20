@@ -1,0 +1,16 @@
+ID,Destinations,Feedback_score,Hotel_rating,All_inclusive_hotels,Most_visited_city
+1,Spain,9,6,10,Barcelona
+2,Turkey,8,7,7,Antalya
+3,Greece,6,5,6,Santorini
+4,France,9,8,11,Nice
+5,Italy,5,5,8,Venice
+6,Thailand,9,4,12,Phuket
+7,Brazil,7,6,12,Rio
+8,USA,9,8,8,New York
+9,UK,9,9,15,London
+10,Mexico,7,5,8,Cancun
+11,Croatia,8,6,5,Zagreb
+12,Portugal,5,7,4,Porto
+13,Hungray,7,6,8,Budhapest
+14,Austria,8,4,10,Vienna
+15,Swiss,9,9,9,Zurich
