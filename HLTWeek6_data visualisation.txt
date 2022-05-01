@@ -1,0 +1,8 @@
+About the Visualiation
+
+This is the Car sales data set which include information about different cars . This data set and visualisation shows different Manufacturer with Horsepower cars. Also Vehicle Type and Price in Thousand.
+
+
+
+
+https://public.tableau.com/app/profile/abu.hanif/viz/Car_sales_data_abuhanif22/VehicleType#2
